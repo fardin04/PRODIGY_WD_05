@@ -113,6 +113,9 @@ body {
     .card {
         padding: 30px 20px;
     }
+    .search button{
+        height: 30px;}
+    
 
     .weather-icon {
         width: 120px;
